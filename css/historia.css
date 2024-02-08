@@ -1,0 +1,44 @@
+.main{
+    width: 100%;
+   
+}
+
+.container_images{
+    width: 95%;
+   margin: 0% auto;
+   padding-bottom: 12px;
+ 
+}
+
+.container_image{
+    width: 31.6%;
+    height: 200px;
+    display: inline-block;
+    margin-bottom: 32%;
+    margin: 0% auto;
+    margin-left: 16px;
+    margin-top: 46px;
+  
+}
+
+.container_image:hover{
+    box-shadow: 2px 2px 20px black;
+}
+.image_link{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.text_image{
+    text-align: justify;
+    width: 100%;
+    height: 100px;
+    text-decoration: none;
+}
+
+.main{
+    padding-bottom: 30px;
+}
+
+

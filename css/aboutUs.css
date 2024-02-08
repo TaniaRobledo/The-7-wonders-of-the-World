@@ -1,0 +1,51 @@
+
+.main{
+    width: 100%;
+    padding-bottom: 0;
+    
+    
+    /* padding-bottom: 14px; */
+
+}
+
+/* .title{
+    padding-top: 20px;
+    text-align: center;
+    color: orange;
+    font-family: merienda;
+
+} */
+
+.container_text_aboutus{
+
+    color: rgb(70, 73, 75);
+    text-align: justify;
+    padding-top: 12px;
+
+}
+
+.container_list{
+    color: rgb(70, 73, 75);
+    text-align: justify;
+}
+
+.container_image_aboutus{
+    margin: 28px auto;
+    margin-bottom: 0;
+    width:550px;
+    height: 550px;
+    padding: 0;
+}
+
+.image{
+    margin: 0;
+}
+
+.image:hover{
+    background-color: orange;
+  
+}
+
+
+
+
